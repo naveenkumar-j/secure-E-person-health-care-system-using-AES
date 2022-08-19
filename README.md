@@ -27,6 +27,14 @@ and swift access for the authorized entities. It must also have provisions for t
 check up on his own data. It should also contain a log book of who and all had accessed
 the data. 
 
+## Available Modules:
+
+1. Login/ Logout Module
+2. Admin Module
+3. Admin Module
+4. Doctor Module
+
+
 ## Overview of Methodology:
 We are using fernet symmetric key encryption as it combines encryption along with
 message authentication and a time stamp to ensure that the data is protected and that it has
